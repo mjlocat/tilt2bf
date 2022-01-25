@@ -1,0 +1,6 @@
+db:
+  user: tilt
+  password: test
+  host: localhost
+  database: tilt
+API_KEY: 1234567890abcdef1234567890abcdef12345678
